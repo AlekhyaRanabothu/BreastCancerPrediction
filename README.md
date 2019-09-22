@@ -10,4 +10,4 @@ Prediction of breast cancer tumor using RandomForest Classifier and SupportVecto
 
 Parameter tuning using GridSearchCV
 
-Evaluation of performance -confusion matrix,CrossValidation
+Evaluation of performance - confusion matrix, CrossValidation
